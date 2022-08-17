@@ -23,6 +23,7 @@
 **Happy Coding!** 😊
 
 </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuns0704&theme=dark&show_icons=true)
 
 <div align="center">
 
