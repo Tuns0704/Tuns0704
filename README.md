@@ -1,12 +1,26 @@
 <div align="center">
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
-<a href="https://www.linkedin.com/in/minh-tu%E1%BA%A5n-ho%C3%A0ng-383695232/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/nottuns._074/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<br />
+  <div align="center">
+    👋 Hi, I’m Minh Tuan <br/>
+    😊 I'm a Fresher Front-End Developer. <br/>
+    👀 I’m interested in learning new things <br/>
+    🌱 I’m currently learning **NextJS and React Native** <br/>
+    📫 How to reach me **tuanhm0704@gmail.com** <br/>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/minh-tu%E1%BA%A5n-ho%C3%A0ng-383695232/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/tuns741/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/nottuns._074/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
   
 ###
   
@@ -15,14 +29,6 @@
 </div>
 
 ###
-<br />
-<div align="center">
-    👋 Hi, I’m Minh Tuan <br/>
-    😊 I'm a Fresher Front-End Developer. <br/>
-    👀 I’m interested in learning new thing <br/>
-    🌱 I’m currently learning **NextJS and React Native** <br/>
-    📫 How to reach me **tuanhm0704@gmail.com** <br/>
-</div>
 
 ###
 
@@ -68,8 +74,6 @@
 
 
 ###
-
-**Happy Coding!** 😊
 
 </div>
 
