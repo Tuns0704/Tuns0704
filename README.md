@@ -1,6 +1,14 @@
 <div align="center">
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
-  <div align="center">
+
+###
+  
+<div align="center">
+  <img height="200" src="https://media.tenor.com/a0gCuklGEqcAAAAM/cat-laptop.gif"  />
+</div>
+
+
+<div align="center">
     👋 Hi, I’m Minh Tuan <br/>
     😊 I'm a Fresher Front-End Developer. <br/>
     👀 I’m interested in learning new things <br/>
@@ -22,13 +30,6 @@
   </a>
 </div>
   
-###
-  
-<div align="center">
-  <img height="200" src="https://media.tenor.com/a0gCuklGEqcAAAAM/cat-laptop.gif"  />
-</div>
-
-###
 
 ###
 
