@@ -10,7 +10,7 @@
 
 <div align="center">
     👋 Hi, I’m Minh Tuan <br/>
-    😊 I'm a Fresher Front-End Developer. <br/>
+    😊 I'm a Full-stack Developer. <br/>
     👀 I’m interested in learning new things <br/>
     🌱 I’m currently learning **NextJS and React Native** <br/>
     📫 How to reach me **tuanhm0704@gmail.com** <br/>
